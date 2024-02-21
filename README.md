@@ -11,3 +11,11 @@
 
 ### Front-End part of the pong game
 - based on [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+
+### How to start
+- `npm install`
+- `npm start`
+- you may set up `PORT` environment variable
+
+### Kudos
+- the entire idea of the app came from the [Zero To Master course](https://academy.zerotomastery.io/courses/1206554/lectures/37424814)
